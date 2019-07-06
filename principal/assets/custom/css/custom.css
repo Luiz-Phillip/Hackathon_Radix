@@ -280,7 +280,7 @@ body{
 .fables-vision-overlay { 
     padding: 47px 25px 51px 25px;
     color: #DDDDDD;
-    height: 100%;
+    height: 50%;
 }
 
 .fables-bussiness-section{
@@ -2436,7 +2436,8 @@ body{
     transition: all ease-in-out .3s;
 }
 .fables-price-bg{
-    background-image: url("../images/table-bg.jpg"); 
+
+    height: 50%;
 }
 .subscribe-index-bg{
     background-image: url("../images/talk-coasts-friends.jpg");
