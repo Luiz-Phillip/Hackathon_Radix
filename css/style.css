@@ -4,3 +4,13 @@
     top: 35%;
     left: 10%;
 }
+
+.img-titulo {
+    object-fit: cover;
+    object-position: 0 0;
+}
+
+.container-img-titulo{
+    height: 15%;
+    width: 100%;
+}
