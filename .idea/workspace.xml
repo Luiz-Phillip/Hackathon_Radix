@@ -132,12 +132,13 @@
       <workItem from="1562381771514" duration="23354000" />
       <workItem from="1562422857088" duration="1664000" />
       <workItem from="1562424656777" duration="2133000" />
-      <workItem from="1562448494492" duration="1175000" />
+      <workItem from="1562448494492" duration="1432000" />
+      <workItem from="1562452217248" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31528000" />
+    <option name="totallyTimeSpent" value="31869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -145,8 +146,6 @@
       <window_info content_ui="combo" id="Project" order="0" weight="0.2496474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,13 +158,15 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32839838" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496474" />
