@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/habilidades.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="608">
+              <caret line="284" column="12" selection-start-line="284" selection-start-column="12" selection-end-line="284" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Desafios/Site pessoal/Site pessoal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="263" selection-start-line="263" selection-end-line="278" selection-end-column="20" />
+            <state relative-caret-position="218">
+              <caret line="1500" column="30" selection-start-line="1500" selection-start-column="25" selection-end-line="1500" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -124,12 +124,13 @@
       <workItem from="1562376888074" duration="1822000" />
       <workItem from="1562379923911" duration="1380000" />
       <workItem from="1562381771514" duration="23354000" />
-      <workItem from="1562422857088" duration="1121000" />
+      <workItem from="1562422857088" duration="1664000" />
+      <workItem from="1562424656777" duration="315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27677000" />
+    <option name="totallyTimeSpent" value="28535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -212,15 +213,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Desafios/Site pessoal/Site pessoal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="263" selection-start-line="263" selection-end-line="278" selection-end-column="20" />
+        <state relative-caret-position="218">
+          <caret line="1500" column="30" selection-start-line="1500" selection-start-column="25" selection-end-line="1500" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/habilidades.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="608">
+          <caret line="284" column="12" selection-start-line="284" selection-start-column="12" selection-end-line="284" selection-end-column="12" />
         </state>
       </provider>
     </entry>
